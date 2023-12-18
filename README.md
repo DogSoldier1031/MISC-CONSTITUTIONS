@@ -15,6 +15,9 @@ https://constitutionnet.org/sites/default/files/tranlation_of_vietnams_new_const
 DPRK
 https://www.ncnk.org/sites/default/files/DPRK%20constitution%20%282019%29.pdf
 
+Laos
+https://www.constituteproject.org/constitution/Laos_2015
+
 Bolivia
 https://www.constituteproject.org/constitution/Bolivia_2009
 
